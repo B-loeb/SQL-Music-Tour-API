@@ -9,14 +9,14 @@
   "test": {
     "username": "postgres",
     "password": "postgres",
-    "database": "music_tour_test",
+    "database": "SQL-Music-Tour-API_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
     "password": "postgres",
-    "database": "music_tour_production",
+    "database": "SQL-Music-Tour-API_production",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
